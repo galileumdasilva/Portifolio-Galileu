@@ -1,0 +1,20 @@
+Nome: Galileu da Silva
+
+Cargo: Analista de Dados e Gestão em Saúde
+
+Sobre: Utilizo dados, tecnologia e gestão para melhorar processos e apoiar decisões em organizações de saúde.
+
+Botões:
+
+- Ver Projetos
+- Download CV
+- LinkedIn
+
+Instruções para o Copilot:
+
+Crie uma seção hero moderna ocupando o centro tela.
+Adicionar foto profissional circular no centro.
+O Nome e cargo devem estar no canto superior esquerdo.
+Os botôes para o currículo e para o LinkedIn devem estar no canto superior direito.
+Adicionar animação suave ao carregar.
+Abaixo da foto deve vir a seção Sobre.
