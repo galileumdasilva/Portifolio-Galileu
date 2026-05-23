@@ -42,19 +42,6 @@
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 }
 
-/* Dark mode by default */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-primary: var(--dark-bg);
-    --bg-secondary: var(--dark-surface);
-    --bg-tertiary: var(--dark-surface-light);
-    --text-primary: var(--dark-text);
-    --text-secondary: var(--dark-text-secondary);
-    --text-tertiary: #828d9c;
-    --text-light: #4a5568;
-  }
-}
-
 /* ==================== RESET ==================== */
 * {
   margin: 0;
