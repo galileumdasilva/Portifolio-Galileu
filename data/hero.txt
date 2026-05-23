@@ -1,20 +1,17 @@
-Nome: Galileu da Silva
+Hero:
 
-Cargo: Analista de Dados e Gestão em Saúde
+Nome: Galileu Martinelli da Silva
 
-Sobre: Utilizo dados, tecnologia e gestão para melhorar processos e apoiar decisões em organizações de saúde.
+Head: Analista de Dados e Projetos em Saúde | Eficiência Operacional e Qualidade Assistencial | SQL, Python, Power BI | PROAHSA (HCFMUSP/FGV)
 
-Botões:
-
-- Ver Projetos
-- Download CV
-- LinkedIn
+Sobre: Atuo como analista de dados e projetos em saúde, com foco em melhorar a eficiência operacional e a qualidade assistencial por meio do uso estruturado de dados e gestão de processos.
+Sou bacharel em Saúde Pública pela USP e especialista em Administração em Saúde pelo PROAHSA (HCFMUSP/FGV), com experiência em diferentes contextos do sistema de saúde, incluindo gestão pública e hospitalar. Ao longo da minha trajetória, desenvolvi e utilizei bases de dados, indicadores e análises estatísticas para apoiar a tomada de decisão em ambientes complexos e de alta demanda.
+Tenho experiência com SQL, Python, R e Power BI, atuando na modelagem de dados, construção de dashboards e geração de insights para gestão. Participei de projetos voltados à otimização de processos, gestão de capacidade, monitoramento de indicadores e melhoria da qualidade assistencial, utilizando metodologias como Lean Six Sigma e Design Thinking.
+Na Secretaria Municipal da Saúde de São Paulo, atuei com dados de judicialização, desenvolvendo painéis e análises para acompanhamento de demandas e apoio à gestão. No Hospital das Clínicas, participei de projetos voltados à eficiência operacional e organização de fluxos assistenciais.
+Tenho interesse em atuar em hospitais, operadoras, seguradoras e organizações do terceiro setor, contribuindo com análise de dados, projetos e melhoria de processos para geração de valor em saúde..
 
 Instruções para o Copilot:
 
-Crie uma seção hero moderna ocupando o centro tela.
-Adicionar foto profissional circular no centro.
-O Nome e cargo devem estar no canto superior esquerdo.
-Os botôes para o currículo e para o LinkedIn devem estar no canto superior direito.
+Crie uma seção hero moderna ocupando a tela inteira.
+Adicionar foto profissional com moldura circular à direita.
 Adicionar animação suave ao carregar.
-Abaixo da foto deve vir a seção Sobre.

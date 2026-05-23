@@ -15,14 +15,14 @@ Utilize todos os arquivos da pasta data como fonte única de informação.
 
 Crie um portfólio profissional moderno no estilo dashboard para um analista de dados e gestão em saúde.
 
-Cada seção deve ser um componente separado:
+Cada seção deve ser um componente separado, organize nessa ordem:
 
-hero
-sobre
-habilidades
-projetos
-experiência
-certificados
-contato
+1. hero
+2. experiência
+3. formação
+4. habilidades
+5. projetos
+6. certificados
+7. contatos
 
 Utilize HTML, CSS e JavaScript separados.
