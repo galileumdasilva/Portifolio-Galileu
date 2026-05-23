@@ -18,4 +18,4 @@ Resiliência;
 Inteligência Emocional.
 
 
-Transforme esse conteúdo em cards com ícones.
+Transforme todo esse conteúdo em cards com ícones.

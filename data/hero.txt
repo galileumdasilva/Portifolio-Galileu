@@ -2,16 +2,15 @@ Hero:
 
 Nome: Galileu Martinelli da Silva
 
-Head: Analista de Dados e Projetos em Saúde | Eficiência Operacional e Qualidade Assistencial | SQL, Python, Power BI | PROAHSA (HCFMUSP/FGV)
+Foto:busto.jpeg
+
+Head: Analista de Dados e Projetos em Saúde | SQL, Python, Power BI | PROAHSA (HCFMUSP/FGV)
 
 Sobre: Atuo como analista de dados e projetos em saúde, com foco em melhorar a eficiência operacional e a qualidade assistencial por meio do uso estruturado de dados e gestão de processos.
-Sou bacharel em Saúde Pública pela USP e especialista em Administração em Saúde pelo PROAHSA (HCFMUSP/FGV), com experiência em diferentes contextos do sistema de saúde, incluindo gestão pública e hospitalar. Ao longo da minha trajetória, desenvolvi e utilizei bases de dados, indicadores e análises estatísticas para apoiar a tomada de decisão em ambientes complexos e de alta demanda.
-Tenho experiência com SQL, Python, R e Power BI, atuando na modelagem de dados, construção de dashboards e geração de insights para gestão. Participei de projetos voltados à otimização de processos, gestão de capacidade, monitoramento de indicadores e melhoria da qualidade assistencial, utilizando metodologias como Lean Six Sigma e Design Thinking.
-Na Secretaria Municipal da Saúde de São Paulo, atuei com dados de judicialização, desenvolvendo painéis e análises para acompanhamento de demandas e apoio à gestão. No Hospital das Clínicas, participei de projetos voltados à eficiência operacional e organização de fluxos assistenciais.
-Tenho interesse em atuar em hospitais, operadoras, seguradoras e organizações do terceiro setor, contribuindo com análise de dados, projetos e melhoria de processos para geração de valor em saúde..
 
 Instruções para o Copilot:
 
 Crie uma seção hero moderna ocupando a tela inteira.
+Posicionar seção sobre a esquerda da foto.
 Adicionar foto profissional com moldura circular à direita.
 Adicionar animação suave ao carregar.
